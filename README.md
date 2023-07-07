@@ -1,6 +1,3 @@
-# # teste_hubchain
-Este projeto consiste na fase de testes técnicos para ingresso na empresa Hubchain.
-
 # # Getting Started
 O mesmo foi realizado em PHP 7.2.19 utilizando o framework Laravel em sua versão 5.7. Para roda-lo em seu localhost será necessária a instalação do composer para update de suas dependências bem como um ambiente configurado com PHP e MYSQL.
 
@@ -44,8 +41,3 @@ Ao digitar a rota inicial do projeto (seu_localhost/diretório_do_sistema/public
 <p>Para produtos com mais de 3 anos de Uso a Coluna "Disponível para Venda?" estará automaticamente sinalizada com "Sim"</p>
 
 <p>O exemplo de API foi adicionado tanto no cadastro quanto edição de produtos nos campos de endereço, ao digitar um CEP e trocar de campo, automaticamente o endereço é preenchido, após isso é possível ve-lô por completo na opção Ver Mais ou na edição do item</p>
-
-# # Agradecimentos
-Agradeço a Hubchain pela oportunidade de participar deste processo e fico a inteira disposição para qualquer dúvida ou informação necessária. 
-
-# # Muito Obrigado!
